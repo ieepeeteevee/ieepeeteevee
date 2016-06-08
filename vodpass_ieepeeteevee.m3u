@@ -21,8 +21,8 @@
 #EXTINF:-1 tvg-logo="logo1" group-title="Sports: IPTV",[COLOR yellow]Sports: IPTV[/COLOR]
 
 
-
-
+#EXTINF:-1, ind
+http://122.3.252.180/Independents.Day.2016.HDRip.XviD.AC3-EVO/Independents.Day.2016.HDRip.XviD.AC3-EVO.avi
 
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Movies: IPTV",[COLOR yellow]Movies: IPTV[/COLOR]
